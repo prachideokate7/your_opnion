@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>_I_LOVE_CRICKET_</title>
+</head>
+<style>
+	*{
+		box-sizing: border-box;
+	}
+	.p{
+		text-transform: uppercase;
+		border: double;
+		text-shadow: 10px 10px black;
+		color: white;
+		background-color: red;
+		text-align: center;
+		font-size: 150px;
+	}
+</style>
+<p class="p">
+	thank you for giving feedback!!!
+</p>
+</html>
